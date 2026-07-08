@@ -72,11 +72,6 @@
 * Groq AI
 * Resend API
 
-### UI & Animations
-
-* GSAP
-* Lucide React
-
 ---
 
 ## 📂 Project Structure
@@ -96,60 +91,6 @@ RouteMe-AI
 ├── package.json
 └── README.md
 ```
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/RouteMe-AI.git
-```
-
-Move into the project directory:
-
-```bash
-cd RouteMe-AI
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
-
-Preview production build:
-
-```bash
-npm run preview
-```
-
----
-
-## 🔑 Environment Variables
-
-Create a `.env` file in the root directory.
-
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_key
-VITE_GROQ_API_KEY=your_groq_api_key
-VITE_RESEND_API_KEY=your_resend_api_key
-```
-
 ---
 
 ## 📸 Screenshots
@@ -157,24 +98,16 @@ VITE_RESEND_API_KEY=your_resend_api_key
 Add screenshots of:
 
 * Home Page
+  
 * AI Assistant
+  
 * Route Planner
+  
 * Interactive Map
+  
 * Expense Tracker
+  
 * AI Scanner
-
----
-
-## 🎯 Future Improvements
-
-* User authentication
-* Save favorite destinations
-* Real-time weather integration
-* Hotel recommendations
-* Flight booking support
-* Offline route access
-* AI itinerary generation
-* Multi-language support
 
 ---
 
@@ -186,14 +119,4 @@ Diploma Student (Big Data & Cloud Computing)
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a **⭐ Star** on GitHub.
-
-It helps others discover the project and motivates future development.
