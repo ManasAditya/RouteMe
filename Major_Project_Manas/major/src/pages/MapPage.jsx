@@ -5,7 +5,7 @@ import { ArrowLeft, MapPin, Route, ExternalLink, CircleDot } from "lucide-react"
 import L from "leaflet";
 import { useAuth } from "../context/AuthContext";
 import { getRoutes } from "../services/routeService";
-
+import 'leaflet/dist/leaflet.css';
 // Mumbai center coordinates
 const MUMBAI_CENTER = [19.0760, 72.8777];
 
