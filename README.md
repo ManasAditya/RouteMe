@@ -95,8 +95,6 @@ RouteMe-AI
 
 ## 📸 Screenshots
 
-Add screenshots of:
-
 * Home Page
   <img width="1469" height="826" alt="image" src="https://github.com/user-attachments/assets/c379e348-5f0e-4a05-8bd4-bc606662cbc8" />
 
