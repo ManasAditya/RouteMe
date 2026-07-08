@@ -98,16 +98,28 @@ RouteMe-AI
 Add screenshots of:
 
 * Home Page
+  <img width="1469" height="826" alt="image" src="https://github.com/user-attachments/assets/c379e348-5f0e-4a05-8bd4-bc606662cbc8" />
+
   
 * AI Assistant
+  <img width="1470" height="832" alt="image" src="https://github.com/user-attachments/assets/39e94278-7faf-487b-bac2-e7636df41bbb" />
+
   
 * Route Planner
+  <img width="1470" height="834" alt="image" src="https://github.com/user-attachments/assets/1a68067a-a991-4e84-a022-a735bd10239b" />
+
   
 * Interactive Map
+  <img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/50273a51-6dcf-47d0-ae93-34baad62d2b8" />
+
   
 * Expense Tracker
+  <img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/cd1a01f6-99d1-4717-8896-4de78dc3541c" />
+
   
 * AI Scanner
+  <img width="1470" height="831" alt="image" src="https://github.com/user-attachments/assets/01d023c9-4190-4727-ac66-a5a0c54ea0de" />
+
 
 ---
 
